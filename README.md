@@ -9,7 +9,7 @@ Es una página estática creada con **HTML5** y **CSS3**, diseñada para refleja
 
 El proyecto **"About Me"** es mi primer proyecto oficial dentro del curso de TripleTen.  
 Consiste en una galería que combina texto e imagen para mostrar aspectos que me representan y definen.  
-Su estructura está organizada en secciones semánticas (`header`, `section`, `footer`), aplicando buenas prácticas de **accesibilidad**, **tipografía** y **diseño responsivo**.
+Su estructura está organizada en secciones semánticas aplicando buenas prácticas de **accesibilidad** y **tipografía**.
 
 ---
 
